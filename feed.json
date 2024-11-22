@@ -1,6 +1,21 @@
 {
   "releases": [
     {
+      "img": "tail.png",
+      "name": "MILK IN DA BOWL",
+      "links": [
+        {
+          "platform": "Apple",
+          "href": "https://music.apple.com/us/album/milk-in-da-bowl-%CF%89/1780119121?i=1780119122"
+        },
+        {
+          "platform": "Spotify",
+          "href": "https://open.spotify.com/album/5Q9i4ENrtaheEukByK12er"
+        }
+      ],
+      "unlock": 1732255200
+    },
+    {
       "name": "BUGZINYRSKIN",
       "links": [
         {
