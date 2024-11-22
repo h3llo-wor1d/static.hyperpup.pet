@@ -1,6 +1,21 @@
 {
   "releases": [
     {
+      "img": "pounce.png",
+      "name": "POUNCE TO IT (w/BUGCORE)",
+      "links": [
+        {
+          "platform": "Apple",
+          "href": false
+        },
+        {
+          "platform": "Spotify",
+          "href": false
+        }
+      ],
+      "unlock": 1732860000
+    },
+    {
       "img": "tail.png",
       "name": "MILK IN DA BOWL",
       "links": [
