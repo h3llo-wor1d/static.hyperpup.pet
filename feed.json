@@ -13,6 +13,20 @@
         }
       ],
       "img": "bugz.png"
+    },
+    {
+      "name": "You're Mine (w/Awerewa)",
+      "links": [
+        {
+          "platform": "Apple",
+          "href": "https://music.apple.com/us/album/youre-mine-feat-hatsune-miku-awerewa/1757723149"
+        },
+        {
+          "platform": "Spotify",
+          "href": "https://open.spotify.com/album/4tHLqHH37QeahOvyorVqQA?si=A7tiyXW6R5yLxUbjpMnrBg"
+        }
+      ],
+      "img": "mine.png"
     }
   ]
 }
