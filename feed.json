@@ -1,62 +1,63 @@
-{
-  "releases": [
-    {
-      "img": "pounce.png",
-      "name": "POUNCE TO IT (w/BUGCORE)",
-      "links": [
-        {
-          "platform": "Apple",
-          "href": false
-        },
-        {
-          "platform": "Spotify",
-          "href": false
-        }
-      ],
-      "unlock": 1732860000
-    },
-    {
-      "img": "tail.png",
-      "name": "MILK IN DA BOWL",
-      "links": [
-        {
-          "platform": "Apple",
-          "href": "https://music.apple.com/us/album/milk-in-da-bowl-%CF%89/1780119121?i=1780119122"
-        },
-        {
-          "platform": "Spotify",
-          "href": "https://open.spotify.com/album/5Q9i4ENrtaheEukByK12er"
-        }
-      ],
-      "unlock": 1732255200
-    },
-    {
-      "name": "BUGZINYRSKIN",
-      "links": [
-        {
-          "platform": "Apple",
-          "href": "https://music.apple.com/us/album/bugzinyrskin/1771331001"
-        },
-        {
-          "platform": "Spotify",
-          "href": "https://open.spotify.com/album/3lekCd1FbVNZ31F7YeiLjz"
-        }
-      ],
-      "img": "bugz.png"
-    },
-    {
-      "name": "You're Mine (w/Awerewa)",
-      "links": [
-        {
-          "platform": "Apple",
-          "href": "https://music.apple.com/us/album/youre-mine-feat-hatsune-miku-awerewa/1757723149"
-        },
-        {
-          "platform": "Spotify",
-          "href": "https://open.spotify.com/album/4tHLqHH37QeahOvyorVqQA?si=A7tiyXW6R5yLxUbjpMnrBg"
-        }
-      ],
-      "img": "mine.png"
-    }
-  ]
-}
+  {
+    "releases": [
+      {
+        "img": "pounce.png",
+        "name": "POUNCE TO IT (w/BUGCORE)",
+        "links": [
+          {
+            "platform": "Apple",
+            "href": false
+          },
+          {
+            "platform": "Spotify",
+            "href": false
+          }
+        ],
+        "unlock": 1732860000,
+        "presave": "https://distrokid.com/hyperfollow/hyperpup/pounce-to-it-feat-bugcore"
+      },
+      {
+        "img": "tail.png",
+        "name": "MILK IN DA BOWL",
+        "links": [
+          {
+            "platform": "Apple",
+            "href": "https://music.apple.com/us/album/milk-in-da-bowl-%CF%89/1780119121?i=1780119122"
+          },
+          {
+            "platform": "Spotify",
+            "href": "https://open.spotify.com/album/5Q9i4ENrtaheEukByK12er"
+          }
+        ],
+        "unlock": 1732255200
+      },
+      {
+        "name": "BUGZINYRSKIN",
+        "links": [
+          {
+            "platform": "Apple",
+            "href": "https://music.apple.com/us/album/bugzinyrskin/1771331001"
+          },
+          {
+            "platform": "Spotify",
+            "href": "https://open.spotify.com/album/3lekCd1FbVNZ31F7YeiLjz"
+          }
+        ],
+        "img": "bugz.png"
+      },
+      {
+        "name": "You're Mine (w/Awerewa)",
+        "links": [
+          {
+            "platform": "Apple",
+            "href": "https://music.apple.com/us/album/youre-mine-feat-hatsune-miku-awerewa/1757723149"
+          },
+          {
+            "platform": "Spotify",
+            "href": "https://open.spotify.com/album/4tHLqHH37QeahOvyorVqQA?si=A7tiyXW6R5yLxUbjpMnrBg"
+          }
+        ],
+        "img": "mine.png"
+      }
+    ]
+  }
