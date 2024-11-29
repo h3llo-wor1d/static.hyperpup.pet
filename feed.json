@@ -1,6 +1,22 @@
   {
     "releases": [
       {
+        "img": "tail.png",
+        "name": "DON'T STOP (WAG IT WAG IT)",
+        "links": [
+          {
+            "platform": "Apple",
+            "href": false
+          },
+          {
+            "platform": "Spotify",
+            "href": false
+          }
+        ],
+        "unlock": 1733464800,
+        "presave": "https://distrokid.com/hyperfollow/hyperpup/dont-stop-wag-it-wag-it"
+      },
+      {
         "img": "pounce.png",
         "name": "POUNCE TO IT (w/BUGCORE)",
         "links": [
