@@ -1,6 +1,23 @@
   {
     "releases": [
       {
+        "r": "waffleyiff",
+        "img": "tail.png",
+        "name": "YIFF BEHIND THE WAFFLE HOUSE",
+        "links": [
+          {
+            "platform": "Apple",
+            "href": false
+          },
+          {
+            "platform": "Spotify",
+            "href": false
+          }
+        ],
+        "unlock": 1735279200,
+        "presave": "https://distrokid.com/hyperfollow/hyperpup/yiff-behind-the-waffle-house"
+      },
+      {
         "r": "dontstopwag",
         "img": "tail.png",
         "name": "DON'T STOP (WAG IT WAG IT)",
