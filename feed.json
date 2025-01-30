@@ -1,4 +1,13 @@
   {
+    "tourdates": [
+      {
+        "date": "May 10, 2025",
+        "time": "1:00PM EST",
+        "location": "FWA 2025",
+        "sublocation": "Popup in Marriott, TBA",
+        "img": "./assets/fwa.png"
+      }
+    ],
     "releases": [
       {
         "r": "blfcpizza",
