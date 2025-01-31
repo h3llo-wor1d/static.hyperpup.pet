@@ -10,6 +10,27 @@
     ],
     "releases": [
       {
+        "r": "plotshaker",
+        "img": "yiff.png",
+        "name": "EVERYPONY'S FAVORITE PL*T SHAKER 201X",
+        "links": [
+          {
+            "platform": "Apple",
+            "href": false
+          },
+          {
+            "platform": "YoutubeMusic",
+            "href": false
+          },
+          {
+            "platform": "Spotify",
+            "href": false
+          }
+        ],
+        "unlock": 1738904400,
+        "presave": "https://distrokid.com/hyperfollow/hyperpup/everyponys-favorite-plt-shaker-201x"
+      },
+      {
         "r": "blfcpizza",
         "img": "yiff.png",
         "name": "EATING THE BLFC CUM PIZZA :D",
