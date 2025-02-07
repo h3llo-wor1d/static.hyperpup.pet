@@ -16,15 +16,15 @@
         "links": [
           {
             "platform": "Apple",
-            "href": false
+            "href": "https://music.apple.com/us/album/everyponys-favorite-pl-t-shaker-201x/1794016837?i=1794016838"
           },
           {
             "platform": "YoutubeMusic",
-            "href": false
+            "href": "https://www.youtube.com/watch?v=hLzfa56LzZ4"
           },
           {
             "platform": "Spotify",
-            "href": false
+            "href": "https://open.spotify.com/track/2fA26S2sn9X2HUfMcYVGjd?si=bd3bc117d7bf4dff"
           }
         ],
         "unlock": 1738904400,
