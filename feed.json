@@ -10,6 +10,27 @@
     ],
     "releases": [
       {
+        "r": "pienpienbeam",
+        "img": "pien.png",
+        "name": "PIEN PIEN BEAM (ft. Hatsune Miku)",
+        "links": [
+          {
+            "platform": "Apple",
+            "href": false
+          },
+          {
+            "platform": "YoutubeMusic",
+            "href": false
+          },
+          {
+            "platform": "Spotify",
+            "href": false
+          }
+        ],
+        "unlock": 1744344000,
+        "presave": "https://distrokid.com/hyperfollow/hyperpup/pien-pien-beam-feat-hatsune-miku"
+      },
+      {
         "r": "pissparty2",
         "img": "yiff.png",
         "name": "PUPPYGIRL PISS PARTY 2",
