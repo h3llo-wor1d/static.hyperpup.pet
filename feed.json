@@ -20,11 +20,11 @@
           },
           {
             "platform": "YoutubeMusic",
-            "href": false
+            "href": "https://www.youtube.com/playlist?list=OLAK5uy_mvUAqecTK77QO5t8SDjgEjkgXtOh6ce-g"
           },
           {
             "platform": "Spotify",
-            "href": false
+            "href": "https://open.spotify.com/album/0hYUjvlgAA9XVV4XXIhx6u"
           }
         ],
         "unlock": 1744344000,
