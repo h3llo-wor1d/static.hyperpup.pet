@@ -10,6 +10,27 @@
     ],
     "releases": [
       {
+        "r": "mindfuck",
+        "img": "mindfuck.png",
+        "name": "MIND FUCK (ft. Hatsune Miku)",
+        "links": [
+          {
+            "platform": "Apple",
+            "href": false
+          },
+          {
+            "platform": "YoutubeMusic",
+            "href": false
+          },
+          {
+            "platform": "Spotify",
+            "href": false
+          }
+        ],
+        "unlock": 1745553600,
+        "presave": "https://jetcube.vyd.co/MindFuck"
+      },
+      {
         "r": "pienpienbeam",
         "img": "pien.png",
         "name": "PIEN PIEN BEAM (ft. Hatsune Miku)",
