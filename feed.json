@@ -1,6 +1,13 @@
   {
     "tourdates": [
       {
+        "date": "May 8th, 2025",
+        "time": "3:00PM",
+        "location": "PISS PARTY @ FWA",
+        "sublocation": "TBA",
+        "img": "./assets/fwa.png"
+      },
+      {
         "date": "TBA",
         "time": "TBA",
         "location": "R U Furreal? @ FWA 2025",
