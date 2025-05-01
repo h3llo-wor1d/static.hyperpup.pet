@@ -13,6 +13,13 @@
         "location": "R U Furreal? @ FWA 2025",
         "sublocation": "FLOOR 10 MARIOTT",
         "img": "./assets/fwa.png"
+      },
+      {
+        "date": "May 11th, 2025",
+        "time": "10:00PM",
+        "location": "SAPPHIC PARTY @ FWA 2025",
+        "sublocation": "EVENTS SUITE",
+        "img": "./assets/fwa.png"
       }
     ],
     "releases": [
