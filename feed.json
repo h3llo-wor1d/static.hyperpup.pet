@@ -1,26 +1,5 @@
   {
     "tourdates": [
-      {
-        "date": "May 10th, 2025",
-        "time": "8:15PM",
-        "location": "R U Furreal? @ FWA 2025",
-        "sublocation": "FLOOR 10 MARIOTT",
-        "img": "./assets/fwa.png"
-      },
-      {
-        "date": "May 11th, 2025",
-        "time": "6:00PM",
-        "location": "ANIMAL CONTROL @ FWA 2025",
-        "sublocation": "TBA MARIOTT",
-        "img": "./assets/fwa.png"
-      },
-      {
-        "date": "May 11th, 2025",
-        "time": "10:00PM",
-        "location": "SAPPHIC PARTY @ FWA 2025",
-        "sublocation": "MARIOTT PARTY FLOOR",
-        "img": "./assets/fwa.png"
-      }
     ],
     "releases": [
       {
