@@ -1,5 +1,12 @@
   {
     "tourdates": [
+      {
+        "date": "June 30th, 2025",
+        "time": "9:00PM",
+        "location": "FURCON5",
+        "sublocation": "BLACK BOX @ THE SUPERMARKET ATL",
+        "img": "./assets/supermarket.png"
+      },
     ],
     "releases": [
       {
