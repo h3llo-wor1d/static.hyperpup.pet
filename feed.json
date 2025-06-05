@@ -9,6 +9,27 @@
       }
     ],
     "releases": [
+        {
+        "r": "ppbremix",
+        "img": "pien.png",
+        "name": "PIEN PIEN BEAM [CLUB REMIX] (ft. Hatsune Miku)",
+        "links": [
+          {
+            "platform": "Apple",
+            "href": false
+          },
+          {
+            "platform": "YoutubeMusic",
+            "href": false
+          },
+          {
+            "platform": "Spotify",
+            "href": false
+          }
+        ],
+        "unlock": 1749294000,
+        "presave": "https://jetcube.vyd.co/PienPienBeamClubRemix"
+      },
       {
         "r": "mindfuck",
         "img": "mindfuck.png",
