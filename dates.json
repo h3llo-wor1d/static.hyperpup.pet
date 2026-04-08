@@ -1,6 +1,27 @@
 {
   "dates": [
     {
+        "timedate": "May 7, 2026 @ 8:00PM",
+        "location": "TBD (Mariott)",
+        "loopingText": "HYPERPUP @ FWA 2026",
+        "title": "UNANNOUNCED POPUP",
+        "isTicketed": false
+    },
+    {
+        "timedate": "May 8, 2026 @ 8:00PM",
+        "location": "TBD (Mariott)",
+        "loopingText": "HYPERPUP @ FWA 2026",
+        "title": "UNANNOUNCED POPUP",
+        "isTicketed": false
+    },
+    {
+        "timedate": "May 9, 2026 @ 8:00PM",
+        "location": "TBD (Mariott)",
+        "loopingText": "HYPERPUP @ FWA 2026",
+        "title": "UNANNOUNCED POPUP",
+        "isTicketed": false
+    },
+    {
       "timedate": "May 10, 2026 @ 9:00PM",
       "location": "TBD (Mariott)",
       "loopingText": "HYPERPUP @ FWA 2026",
