@@ -1,6 +1,17 @@
 {
   "releases": [
     {
+      "path": "dokw",
+      "title": "THE DEATH OF KERES WOLFE",
+      "media": "https://raw.githubusercontent.com/h3llo-wor1d/HYPERPUP_COVERS/refs/heads/main/deathofkereswolfe.png",
+      "details": {
+        "rd": "May 1, 2026",
+        "desc": "THE DEATH OF KERES WOLFE is the vocal debut of and first studio album by HYPERPUP. The focus of the album is death, and a loss of desire to exist. Though the title expresses the death of Keres, she will return.",
+        "artist": "Polyana",
+        "streaming": []
+      }
+    },
+    {
       "path": "dstm",
       "title": "DONT STOP THE MUSIC",
       "media": "https://raw.githubusercontent.com/h3llo-wor1d/HYPERPUP_COVERS/refs/heads/main/dontstopthemusic.png",
