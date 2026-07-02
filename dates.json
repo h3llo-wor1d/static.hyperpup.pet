@@ -1,10 +1,24 @@
 {
   "dates": [
     {
-        "timedate": "May 7, 2026 @ 4:00PM",
-        "location": "FLOOR 10 (Mariott)",
+      "timedate": "July 18th, 2026",
+      "location": "LOS ANGELES, CA (LOCATION TBA)",
+      "loopingText": "HYPERPUP ON TOUR",
+      "title": "RENEGADE RAVE",
+      "isTicketed": false
+    },
+    {
+      "timedate": "May 10, 2026 @ 9:00PM",
+      "location": "TBD (Mariott)",
+      "loopingText": "HYPERPUP @ FWA 2026",
+      "title": "DIO PARTY (21+)",
+      "isTicketed": false
+    },
+    {
+        "timedate": "May 9, 2026 @ 4:30PM",
+        "location": "Room 4730 (Mariott)",
         "loopingText": "HYPERPUP @ FWA 2026",
-        "title": "ALBUM LISTENING PARTY",
+        "title": "BIMBO PARTY (21+)",
         "isTicketed": false
     },
     {
@@ -15,18 +29,11 @@
         "isTicketed": false
     },
     {
-        "timedate": "May 9, 2026 @ 4:30PM",
-        "location": "Room 4730 (Mariott)",
+        "timedate": "May 7, 2026 @ 4:00PM",
+        "location": "FLOOR 10 (Mariott)",
         "loopingText": "HYPERPUP @ FWA 2026",
-        "title": "BIMBO PARTY (21+)",
+        "title": "ALBUM LISTENING PARTY",
         "isTicketed": false
-    },
-    {
-      "timedate": "May 10, 2026 @ 9:00PM",
-      "location": "TBD (Mariott)",
-      "loopingText": "HYPERPUP @ FWA 2026",
-      "title": "DIO PARTY (21+)",
-      "isTicketed": false
     }
   ]
 }
