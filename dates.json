@@ -1,8 +1,22 @@
 {
   "dates": [
     {
+      "timedate": "July 19th, 2026",
+      "location": "LOS ANGELES, CA (FLEXX POMONA)",
+      "loopingText": "HYPERPUP ON TOUR",
+      "title": "RAWRING 20S RAVE",
+      "isTicketed": false
+    },
+    {
+      "timedate": "July 19th, 2026",
+      "location": "LOS ANGELES, CA (Old Los Angeles Zoo)",
+      "loopingText": "HYPERPUP ON TOUR",
+      "title": "PLUR IN THE PARK",
+      "isTicketed": false
+    },
+    {
       "timedate": "July 18th, 2026",
-      "location": "LOS ANGELES, CA (LOCATION TBA)",
+      "location": "LOS ANGELES, CA (SECRET LOCATION)",
       "loopingText": "HYPERPUP ON TOUR",
       "title": "RENEGADE RAVE",
       "isTicketed": false
